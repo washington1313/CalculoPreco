@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoPreco\CalculoPreco\bin\Debug\CalculoPreco.exe.config
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoPreco\CalculoPreco\bin\Debug\CalculoPreco.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoPreco\CalculoPreco\bin\Debug\CalculoPreco.pdb
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoPreco\CalculoPreco\obj\Debug\CalculoPreco.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoPreco\CalculoPreco\obj\Debug\CalculoPreco.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoPreco\CalculoPreco\obj\Debug\CalculoPreco.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoPreco\CalculoPreco\obj\Debug\CalculoPreco.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\CalculoPreco\CalculoPreco\obj\Debug\CalculoPreco.pdb
